@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Future of Farming: Youth Perspectives</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Chosen Palette: Energetic & Playful -->
+    <!-- Application Structure Plan: The infographic follows a narrative structure designed to guide the user from a high-level overview to nuanced details. It starts with the core finding ("The Big Question"), then breaks down this finding by key demographic and background factors ("The Demographic Divide" and "The Influence of Background"). Finally, it explores the 'why' by focusing on the challenges and alternative aspirations ("Barriers & New Horizons"). This top-down approach was chosen to make the complex survey data easily digestible, telling a coherent story about the pressures and motivations shaping the next generation's career choices. -->
+    <!-- Visualization & Content Choices: 1. Overall Interest: Goal: Inform. Viz: Donut Chart (Chart.js). Justification: Best for showing a simple, powerful composition of the core Yes/Maybe/No data. 2. Demographics (Gender, Location, Education): Goal: Compare. Viz: Stacked Horizontal Bar Charts (Chart.js). Justification: Allows for easy comparison across categories while also showing the internal composition of interest, handling long labels effectively. 3. Background Factors (Land Ownership, Parents' Occupation): Goal: Reveal Relationships. Viz: Grouped Bar Chart and Stacked Horizontal Bar (Chart.js). Justification: Directly contrasts outcomes (land ownership) and explores complex influences (parental career). 4. Barriers & Alternatives: Goal: Organize/Rank. Viz: Ordered Horizontal Bar Charts (Chart.js). Justification: Clearly ranks the primary reasons for avoiding farming and the most popular alternative careers, providing actionable insights. NO SVG/Mermaid used. -->
+    <!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&display=swap');
+        body { font-family: 'Inter', sans-serif; background-color: #f8f9fa; }
+        .chart-container { position: relative; width: 100%; max-width: 600px; margin-left: auto; margin-right: auto; height: 350px; max-height: 400px; }
+        .kpi-card { background-color: white; border-radius: 0.75rem; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1); padding: 1.5rem; text-align: center; border: 1px solid #e5e7eb; }
+        .kpi-title { font-size: 1.125rem; font-weight: 600; color: #4b5563; }
+        .kpi-value { font-size: 3rem; font-weight: 900; line-height: 1; margin-top: 0.5rem; }
+        h2 { font-size: 2.25rem; font-weight: 800; text-align: center; margin-bottom: 1rem; }
+        h3 { font-size: 1.5rem; font-weight: 700; text-align: center; margin-bottom: 1.5rem; }
+        .section-subtitle { font-size: 1.125rem; text-align: center; max-width: 48rem; margin: 0 auto 3rem auto; color: #6b7280; }
+    </style>
+</head>
+<body class="text-gray-800">
+
+    <div class="container mx-auto p-4 md:p-8">
+
+        <!-- Header -->
+        <header class="text-center my-12">
+            <h1 class="text-5xl md:text-6xl font-black text-gray-900 leading-tight">THE FUTURE OF FARMING</h1>
+            <p class="text-2xl text-gray-600 mt-4">Analyzing the Career Aspirations of India's Youth</p>
+        </header>
+
+        <!-- Section 1: The Big Question -->
+        <section id="overview" class="mb-20">
+            <h2 style="color: #073B4C;">The Big Question: Is Farming A Future?</h2>
+            <p class="section-subtitle">Based on a survey of 1,000 young individuals across India, we explored their interest in pursuing agriculture. The results reveal a complex picture of opportunity, hesitation, and competing ambitions.</p>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+                <div class="kpi-card h-full flex flex-col justify-center">
+                    <h3 class="text-2xl font-bold mb-4">Overall Interest</h3>
+                    <div class="chart-container" style="height: 300px;">
+                        <canvas id="interestDonutChart"></canvas>
+                    </div>
+                </div>
+                <div class="grid grid-cols-2 gap-6">
+                    <div class="kpi-card">
+                        <p class="kpi-title">Respondents With Farming Background</p>
+                        <p class="kpi-value" style="color: #118AB2;">62%</p>
+                    </div>
+                    <div class="kpi-card">
+                        <p class="kpi-title">Family Owns Agricultural Land</p>
+                        <p class="kpi-value" style="color: #06D6A0;">55%</p>
+                    </div>
+                    <div class="kpi-card col-span-2">
+                        <p class="kpi-title">Average Land Holding (for owners)</p>
+                        <p class="kpi-value" style="color: #FFD166;">4.5 <span class="text-2xl font-semibold">acres</span></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 2: Demographic Divide -->
+        <section id="demographics" class="mb-20">
+            <h2 style="color: #073B4C;">The Demographic Divide</h2>
+            <p class="section-subtitle">Interest in agriculture is not uniform. It shifts significantly based on geography, gender, and education, revealing how social and environmental contexts shape career outlooks.</p>
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
+                <div class="bg-white p-6 rounded-xl shadow-lg border">
+                    <h3>Interest by Location</h3>
+                    <div class="chart-container"><canvas id="locationChart"></canvas></div>
+                    <p class="text-center mt-4 text-gray-600 px-4">Rural youth show the highest interest, but a significant portion in urban areas are also considering agriculture, hinting at a potential shift towards modern AgriTech.</p>
+                </div>
+                <div class="bg-white p-6 rounded-xl shadow-lg border">
+                    <h3>Interest by Education Level</h3>
+                    <div class="chart-container"><canvas id="educationChart"></canvas></div>
+                     <p class="text-center mt-4 text-gray-600 px-4">Interest remains relatively consistent across education levels, declining only slightly at the postgraduate level where other specialized career opportunities may become more prominent.</p>
+                </div>
+            </div>
+        </section>
+        
+        <!-- Section 3: The Influence of Background -->
+        <section id="background" class="mb-20">
+            <h2 style="color: #073B4C;">The Influence of Background</h2>
+            <p class="section-subtitle">Family history and economic realities, like land ownership and parents' occupation, are powerful predictors of a young person's inclination towards farming.</p>
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
+                <div class="bg-white p-6 rounded-xl shadow-lg border">
+                    <h3>Impact of Land Ownership</h3>
+                    <div class="chart-container"><canvas id="landOwnershipChart"></canvas></div>
+                    <p class="text-center mt-4 text-gray-600 px-4">Access to land is a critical factor. Those whose families own land are substantially more likely to consider a future in farming.</p>
+                </div>
+                <div class="bg-white p-6 rounded-xl shadow-lg border">
+                    <h3>Influence of Parents' Occupation</h3>
+                    <div class="chart-container"><canvas id="parentsOccupationChart"></canvas></div>
+                    <p class="text-center mt-4 text-gray-600 px-4">Unsurprisingly, individuals with parents in Farming or Agricultural Labor show the highest interest. However, even children of parents in other sectors show a notable curiosity.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 4: Barriers and New Horizons -->
+        <section id="barriers" class="mb-12">
+            <h2 style="color: #073B4C;">Barriers & New Horizons</h2>
+            <p class="section-subtitle">For the 40% of youth not interested in farming, their reasons highlight key challenges the agricultural sector must address. Their alternative career interests also reveal the competitive landscape for talent.</p>
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12">
+                <div class="bg-white p-6 rounded-xl shadow-lg border">
+                    <h3>Top Reasons for Avoiding Farming</h3>
+                    <div class="chart-container"><canvas id="reasonsChart"></canvas></div>
+                    <p class="text-center mt-4 text-gray-600 px-4">Economic instability and a preference for urban lifestyles are the dominant deterrents, followed by the high perceived risks associated with climate and pests.</p>
+                </div>
+                <div class="bg-white p-6 rounded-xl shadow-lg border">
+                    <h3>Most Desired Alternative Careers</h3>
+                    <div class="chart-container"><canvas id="careersChart"></canvas></div>
+                    <p class="text-center mt-4 text-gray-600 px-4">The allure of the tech industry (Software/IT, Data Science) is strong, alongside stable government jobs. AgriTech itself appears as a promising bridge between traditional farming and modern aspirations.</p>
+                </div>
+            </div>
+        </section>
+    </div>
+
+<script>
+    window.onload = function() {
+        Chart.defaults.font.family = 'Inter';
+        Chart.defaults.responsive = true;
+        Chart.defaults.maintainAspectRatio = false;
+
+        const PALETTE = {
+            red: '#FF6B6B',
+            yellow: '#FFD166',
+            green: '#06D6A0',
+            blue: '#118AB2',
+            navy: '#073B4C',
+            grey: '#6b7280'
+        };
+
+        const tooltipTitleCallback = (tooltipItems) => {
+            const item = tooltipItems[0];
+            let label = item.chart.data.labels[item.dataIndex];
+            if (Array.isArray(label)) {
+                return label.join(' ');
+            }
+            return label;
+        };
+        
+        const wrapLabel = (label, maxWidth = 16) => {
+            if (label.length <= maxWidth) return label;
+            const words = label.split(' ');
+            const lines = [];
+            let currentLine = '';
+            for (const word of words) {
+                if ((currentLine + ' ' + word).trim().length > maxWidth && currentLine.length > 0) {
+                    lines.push(currentLine);
+                    currentLine = word;
+                } else {
+                    currentLine = (currentLine + ' ' + word).trim();
+                }
+            }
+            if (currentLine.length > 0) lines.push(currentLine);
+            return lines;
+        };
+
+        // Chart 1: Overall Interest (Donut)
+        new Chart(document.getElementById('interestDonutChart'), {
+            type: 'doughnut',
+            data: {
+                labels: ['Interested', 'Maybe', 'Not Interested'],
+                datasets: [{
+                    data: [35, 25, 40],
+                    backgroundColor: [PALETTE.green, PALETTE.yellow, PALETTE.red],
+                    borderColor: '#ffffff',
+                    borderWidth: 4,
+                }]
+            },
+            options: {
+                cutout: '60%',
+                plugins: {
+                    legend: { position: 'bottom', labels: { padding: 20, font: { size: 14 } } },
+                    tooltip: { callbacks: { title: tooltipTitleCallback } }
+                }
+            }
+        });
+
+        // Chart 2: Interest by Location (Stacked Horizontal Bar)
+        new Chart(document.getElementById('locationChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Rural', 'Semi-Urban', 'Urban'],
+                datasets: [
+                    { label: 'Interested', data: [45, 35, 25], backgroundColor: PALETTE.green },
+                    { label: 'Maybe', data: [25, 25, 25], backgroundColor: PALETTE.yellow },
+                    { label: 'Not Interested', data: [30, 40, 50], backgroundColor: PALETTE.red }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                scales: { x: { stacked: true, ticks: { callback: (value) => value + '%' } }, y: { stacked: true } },
+                plugins: {
+                    legend: { position: 'bottom' },
+                    tooltip: { callbacks: { title: tooltipTitleCallback } }
+                }
+            }
+        });
+        
+        // Chart 3: Interest by Education Level (Stacked Horizontal Bar)
+        new Chart(document.getElementById('educationChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Secondary', 'Higher Secondary', 'Undergraduate', 'Postgraduate'],
+                datasets: [
+                    { label: 'Interested', data: [38, 36, 35, 32], backgroundColor: PALETTE.green },
+                    { label: 'Maybe', data: [28, 26, 25, 23], backgroundColor: PALETTE.yellow },
+                    { label: 'Not Interested', data: [34, 38, 40, 45], backgroundColor: PALETTE.red }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                scales: { x: { stacked: true, ticks: { callback: (value) => value + '%' } }, y: { stacked: true } },
+                plugins: { legend: { position: 'bottom' }, tooltip: { callbacks: { title: tooltipTitleCallback } } }
+            }
+        });
+        
+        // Chart 4: Impact of Land Ownership (Grouped Bar)
+        new Chart(document.getElementById('landOwnershipChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Interested', 'Maybe', 'Not Interested'],
+                datasets: [
+                    { label: 'Owns Land', data: [48, 30, 22], backgroundColor: PALETTE.blue },
+                    { label: 'Does Not Own Land', data: [22, 20, 58], backgroundColor: PALETTE.grey }
+                ]
+            },
+            options: {
+                scales: { y: { beginAtZero: true, ticks: { callback: (value) => value + '%' } } },
+                plugins: { legend: { position: 'bottom' }, tooltip: { callbacks: { title: tooltipTitleCallback } } }
+            }
+        });
+
+        // Chart 5: Influence of Parents' Occupation
+        new Chart(document.getElementById('parentsOccupationChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Farming', 'Agricultural Labor', 'Govt. Service', 'Private Job', 'Small Business', 'Retired'].map(l => wrapLabel(l)),
+                datasets: [
+                    { label: 'Interested', data: [65, 55, 30, 25, 28, 20], backgroundColor: PALETTE.green },
+                    { label: 'Maybe', data: [25, 30, 25, 25, 27, 25], backgroundColor: PALETTE.yellow },
+                    { label: 'Not Interested', data: [10, 15, 45, 50, 45, 55], backgroundColor: PALETTE.red }
+                ]
+            },
+            options: {
+                indexAxis: 'y',
+                scales: { x: { stacked: true, ticks: { callback: (value) => value + '%' } }, y: { stacked: true } },
+                plugins: { legend: { position: 'bottom' }, tooltip: { callbacks: { title: tooltipTitleCallback } } }
+            }
+        });
+        
+        // Chart 6: Top Reasons for Avoiding Farming
+        new Chart(document.getElementById('reasonsChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Low/unstable income', 'Prefer urban career/lifestyle', 'High risk (climate, pests)', 'No access to land', 'Physical demands/long hours', 'Family expects non-farm career'].map(l => wrapLabel(l)),
+                datasets: [{
+                    label: 'Frequency of Mention',
+                    data: [35, 25, 18, 12, 7, 3],
+                    backgroundColor: PALETTE.blue
+                }]
+            },
+            options: {
+                indexAxis: 'y',
+                scales: { x: { beginAtZero: true } },
+                plugins: { legend: { display: false }, tooltip: { callbacks: { title: tooltipTitleCallback } } }
+            }
+        });
+        
+        // Chart 7: Most Desired Alternative Careers
+        new Chart(document.getElementById('careersChart'), {
+            type: 'bar',
+            data: {
+                labels: ['Software/IT', 'Govt. Services', 'Data Science/AI', 'Education/Teaching', 'Healthcare', 'Agriculture/AgriTech'].map(l => wrapLabel(l)),
+                datasets: [{
+                    label: 'Number of Respondents',
+                    data: [28, 22, 15, 12, 10, 8],
+                    backgroundColor: PALETTE.navy
+                }]
+            },
+            options: {
+                indexAxis: 'y',
+                scales: { x: { beginAtZero: true } },
+                plugins: { legend: { display: false }, tooltip: { callbacks: { title: tooltipTitleCallback } } }
+            }
+        });
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,501 @@
+Age,Gender,Education Level,State,Owns Agricultural Land,Land in Acres,Parents' Occupation,Career Interest,Interested in Farming,Reason for Not Choosing Farming
+25,Female,Undergraduate,Tamil Nadu,Yes,1.94,Farming,Teacher,Yes,
+24,Other,PhD,Andhra Pradesh,Yes,2.35,Private Job,Software Engineer,No,High risk in agriculture
+29,Female,PhD,Tamil Nadu,Yes,2.2,Government Job,Government Job,Yes,
+19,Male,Postgraduate,Andhra Pradesh,Yes,5.84,Government Job,Government Job,Yes,
+25,Male,Intermediate,Andhra Pradesh,No,0,Government Job,Scientist,Yes,
+29,Female,Undergraduate,Andhra Pradesh,No,0,Farming,Entrepreneur,No,Low income in farming
+25,Other,Undergraduate,Telangana,Yes,3.65,Government Job,Teacher,Yes,
+24,Other,Undergraduate,Telangana,Yes,9.51,Business,Software Engineer,Yes,
+25,Other,PhD,Andhra Pradesh,No,0,Private Job,Government Job,Yes,
+26,Other,Undergraduate,Tamil Nadu,Yes,1.97,Farming,Scientist,Yes,
+24,Other,Postgraduate,Telangana,Yes,8.52,Private Job,Government Job,Yes,
+23,Female,Intermediate,Tamil Nadu,No,0,Farming,Doctor,No,Lack of interest
+25,Female,PhD,Telangana,Yes,6.1,Farming,Farmer,Yes,
+26,Other,Intermediate,Telangana,Yes,5.38,Business,Software Engineer,Yes,
+18,Female,PhD,Andhra Pradesh,No,0,Government Job,Scientist,No,Unpredictable weather conditions
+22,Other,PhD,Tamil Nadu,No,0,Daily Wage Labour,Doctor,No,Unpredictable weather conditions
+26,Other,Intermediate,Telangana,No,0,Daily Wage Labour,Teacher,No,Low income in farming
+27,Other,Postgraduate,Andhra Pradesh,No,0,Private Job,Farmer,Yes,
+22,Male,Intermediate,Andhra Pradesh,Yes,9.74,Farming,Farmer,No,Better opportunities in other fields
+27,Female,Intermediate,Tamil Nadu,No,0,Private Job,Software Engineer,Yes,
+23,Other,Postgraduate,Tamil Nadu,Yes,3.81,Business,Teacher,No,Better opportunities in other fields
+30,Female,Postgraduate,Tamil Nadu,No,0,Government Job,Farmer,Yes,
+20,Male,Undergraduate,Andhra Pradesh,Yes,9.31,Daily Wage Labour,Software Engineer,Yes,
+22,Other,Intermediate,Telangana,No,0,Daily Wage Labour,Software Engineer,Yes,
+21,Male,PhD,Andhra Pradesh,Yes,9.27,Business,Entrepreneur,No,Low income in farming
+30,Female,Undergraduate,Telangana,Yes,6.68,Daily Wage Labour,Doctor,No,High risk in agriculture
+27,Other,Undergraduate,Andhra Pradesh,Yes,2.82,Government Job,Entrepreneur,Yes,
+30,Female,School,Andhra Pradesh,No,0,Business,Teacher,Yes,
+24,Male,Intermediate,Andhra Pradesh,Yes,9.09,Business,Entrepreneur,No,High risk in agriculture
+22,Female,School,Andhra Pradesh,Yes,7.29,Business,Government Job,No,Low income in farming
+30,Other,School,Andhra Pradesh,Yes,7.67,Business,Scientist,Yes,
+22,Male,Postgraduate,Tamil Nadu,Yes,5.55,Daily Wage Labour,Government Job,Yes,
+18,Female,Postgraduate,Tamil Nadu,Yes,9.14,Daily Wage Labour,Teacher,Yes,
+25,Male,Undergraduate,Tamil Nadu,Yes,9.89,Daily Wage Labour,Teacher,Yes,
+26,Male,Postgraduate,Tamil Nadu,Yes,0.51,Private Job,Doctor,No,Unpredictable weather conditions
+22,Male,Undergraduate,Telangana,No,0,Business,Software Engineer,No,Unpredictable weather conditions
+23,Female,School,Tamil Nadu,Yes,8.61,Business,Teacher,Yes,
+25,Other,Postgraduate,Tamil Nadu,Yes,6.1,Private Job,Government Job,No,Low income in farming
+29,Female,Postgraduate,Telangana,Yes,3.58,Daily Wage Labour,Scientist,Yes,
+25,Other,PhD,Telangana,Yes,4.23,Government Job,Entrepreneur,No,High risk in agriculture
+29,Other,School,Tamil Nadu,Yes,6.93,Private Job,Scientist,Yes,
+27,Male,PhD,Andhra Pradesh,No,0,Farming,Software Engineer,Yes,
+22,Other,Undergraduate,Andhra Pradesh,Yes,8.65,Daily Wage Labour,Entrepreneur,No,Unpredictable weather conditions
+27,Other,School,Telangana,Yes,5.51,Business,Software Engineer,Yes,
+26,Male,Intermediate,Tamil Nadu,No,0,Government Job,Scientist,Yes,
+19,Other,School,Andhra Pradesh,Yes,2.11,Private Job,Teacher,No,Low income in farming
+18,Other,Postgraduate,Telangana,Yes,6.85,Private Job,Scientist,Yes,
+18,Male,Intermediate,Tamil Nadu,No,0,Government Job,Teacher,No,Better opportunities in other fields
+24,Female,PhD,Tamil Nadu,No,0,Private Job,Doctor,Yes,
+25,Male,Intermediate,Tamil Nadu,No,0,Farming,Scientist,Yes,
+29,Male,Postgraduate,Telangana,Yes,2.48,Farming,Doctor,Yes,
+26,Other,School,Andhra Pradesh,No,0,Daily Wage Labour,Farmer,No,Better opportunities in other fields
+20,Other,School,Andhra Pradesh,Yes,6.09,Business,Entrepreneur,No,Low income in farming
+23,Male,Postgraduate,Tamil Nadu,No,0,Daily Wage Labour,Scientist,No,Unpredictable weather conditions
+26,Female,Intermediate,Andhra Pradesh,Yes,6.8,Business,Teacher,No,Lack of interest
+28,Female,Postgraduate,Andhra Pradesh,Yes,1.84,Business,Doctor,Yes,
+28,Female,Undergraduate,Andhra Pradesh,No,0,Private Job,Farmer,No,High risk in agriculture
+25,Female,Intermediate,Tamil Nadu,No,0,Business,Entrepreneur,No,Unpredictable weather conditions
+27,Female,Undergraduate,Andhra Pradesh,Yes,1.51,Government Job,Government Job,Yes,
+22,Other,Postgraduate,Telangana,Yes,3.74,Farming,Teacher,Yes,
+20,Other,Postgraduate,Telangana,No,0,Farming,Scientist,Yes,
+29,Female,School,Tamil Nadu,Yes,9.65,Business,Software Engineer,Yes,
+20,Other,Postgraduate,Telangana,Yes,0.86,Business,Government Job,No,Unpredictable weather conditions
+25,Other,School,Tamil Nadu,No,0,Daily Wage Labour,Teacher,No,Lack of interest
+30,Male,Postgraduate,Telangana,Yes,6.42,Private Job,Teacher,No,Better opportunities in other fields
+19,Male,Postgraduate,Andhra Pradesh,Yes,2.99,Farming,Scientist,No,Low income in farming
+29,Male,School,Andhra Pradesh,Yes,4.22,Business,Entrepreneur,Yes,
+20,Other,Postgraduate,Andhra Pradesh,No,0,Daily Wage Labour,Software Engineer,Yes,
+24,Male,Postgraduate,Andhra Pradesh,No,0,Daily Wage Labour,Government Job,Yes,
+21,Male,PhD,Tamil Nadu,No,0,Farming,Software Engineer,No,Unpredictable weather conditions
+30,Male,Postgraduate,Andhra Pradesh,No,0,Government Job,Software Engineer,Yes,
+27,Female,PhD,Andhra Pradesh,Yes,1.45,Business,Farmer,No,High risk in agriculture
+21,Other,Postgraduate,Tamil Nadu,No,0,Private Job,Teacher,Yes,
+22,Male,PhD,Tamil Nadu,Yes,0.85,Business,Teacher,No,Unpredictable weather conditions
+21,Female,Intermediate,Telangana,Yes,4.44,Government Job,Software Engineer,No,Better opportunities in other fields
+25,Male,PhD,Tamil Nadu,No,0,Business,Entrepreneur,No,Low income in farming
+23,Male,Postgraduate,Telangana,Yes,2.11,Daily Wage Labour,Software Engineer,No,Unpredictable weather conditions
+29,Male,School,Telangana,No,0,Private Job,Farmer,No,Unpredictable weather conditions
+19,Other,School,Tamil Nadu,No,0,Daily Wage Labour,Software Engineer,No,High risk in agriculture
+19,Other,Postgraduate,Andhra Pradesh,No,0,Farming,Farmer,No,Low income in farming
+29,Other,Intermediate,Andhra Pradesh,Yes,2.37,Government Job,Scientist,Yes,
+20,Other,Intermediate,Andhra Pradesh,No,0,Farming,Farmer,No,Better opportunities in other fields
+22,Male,Postgraduate,Tamil Nadu,Yes,2.27,Business,Government Job,No,Low income in farming
+18,Male,Postgraduate,Telangana,Yes,1.05,Business,Government Job,No,Low income in farming
+28,Male,Postgraduate,Tamil Nadu,No,0,Business,Farmer,No,High risk in agriculture
+20,Male,PhD,Tamil Nadu,Yes,6.71,Private Job,Doctor,Yes,
+26,Male,Undergraduate,Andhra Pradesh,Yes,9.01,Government Job,Scientist,Yes,
+24,Other,Undergraduate,Telangana,Yes,1.78,Farming,Government Job,No,Unpredictable weather conditions
+22,Other,School,Andhra Pradesh,Yes,3.97,Business,Teacher,Yes,
+20,Male,Intermediate,Andhra Pradesh,No,0,Private Job,Scientist,No,Unpredictable weather conditions
+22,Female,Postgraduate,Telangana,No,0,Government Job,Teacher,No,High risk in agriculture
+20,Male,School,Tamil Nadu,No,0,Private Job,Entrepreneur,No,Low income in farming
+28,Female,Undergraduate,Andhra Pradesh,Yes,3.72,Daily Wage Labour,Government Job,No,Lack of interest
+20,Male,Intermediate,Telangana,No,0,Daily Wage Labour,Government Job,No,Low income in farming
+22,Other,Postgraduate,Tamil Nadu,No,0,Daily Wage Labour,Government Job,No,Low income in farming
+28,Other,Intermediate,Tamil Nadu,No,0,Private Job,Entrepreneur,Yes,
+26,Other,Undergraduate,Telangana,Yes,8.99,Government Job,Scientist,Yes,
+18,Female,PhD,Telangana,No,0,Private Job,Farmer,No,Unpredictable weather conditions
+22,Male,Intermediate,Tamil Nadu,No,0,Farming,Scientist,No,Low income in farming
+30,Male,Postgraduate,Andhra Pradesh,No,0,Daily Wage Labour,Software Engineer,Yes,
+20,Female,Undergraduate,Tamil Nadu,No,0,Business,Government Job,No,Lack of interest
+19,Female,School,Telangana,No,0,Private Job,Farmer,No,Unpredictable weather conditions
+25,Female,Undergraduate,Telangana,No,0,Government Job,Government Job,No,Better opportunities in other fields
+30,Female,Undergraduate,Telangana,No,0,Government Job,Scientist,Yes,
+23,Female,Postgraduate,Telangana,Yes,0.54,Government Job,Teacher,Yes,
+25,Female,Undergraduate,Andhra Pradesh,No,0,Government Job,Government Job,Yes,
+24,Male,Undergraduate,Telangana,No,0,Daily Wage Labour,Farmer,Yes,
+21,Other,Intermediate,Andhra Pradesh,Yes,8.75,Government Job,Government Job,Yes,
+28,Female,PhD,Tamil Nadu,No,0,Daily Wage Labour,Teacher,Yes,
+24,Male,Undergraduate,Andhra Pradesh,Yes,7.85,Private Job,Doctor,No,Low income in farming
+18,Male,PhD,Tamil Nadu,Yes,4.83,Business,Farmer,No,Better opportunities in other fields
+19,Female,PhD,Andhra Pradesh,Yes,1.79,Government Job,Scientist,Yes,
+21,Other,Postgraduate,Telangana,No,0,Farming,Farmer,No,High risk in agriculture
+19,Male,PhD,Tamil Nadu,No,0,Government Job,Entrepreneur,Yes,
+28,Other,PhD,Andhra Pradesh,No,0,Private Job,Scientist,Yes,
+20,Other,Intermediate,Tamil Nadu,Yes,9.57,Government Job,Teacher,No,Better opportunities in other fields
+30,Female,Postgraduate,Telangana,Yes,4.34,Daily Wage Labour,Government Job,No,Unpredictable weather conditions
+24,Other,Undergraduate,Tamil Nadu,No,0,Government Job,Teacher,No,Lack of interest
+18,Male,Postgraduate,Telangana,Yes,9.42,Farming,Scientist,No,Better opportunities in other fields
+25,Other,Intermediate,Tamil Nadu,No,0,Daily Wage Labour,Teacher,No,Unpredictable weather conditions
+27,Female,PhD,Andhra Pradesh,No,0,Business,Teacher,No,High risk in agriculture
+24,Female,PhD,Andhra Pradesh,No,0,Daily Wage Labour,Doctor,Yes,
+28,Female,Intermediate,Tamil Nadu,Yes,0.81,Government Job,Government Job,Yes,
+29,Male,PhD,Tamil Nadu,Yes,1.98,Private Job,Doctor,Yes,
+29,Other,Intermediate,Telangana,Yes,7.17,Private Job,Government Job,No,Better opportunities in other fields
+27,Male,School,Telangana,No,0,Farming,Software Engineer,Yes,
+22,Female,Undergraduate,Andhra Pradesh,No,0,Daily Wage Labour,Entrepreneur,Yes,
+19,Male,PhD,Tamil Nadu,Yes,8.44,Farming,Teacher,Yes,
+25,Male,School,Andhra Pradesh,Yes,7.89,Private Job,Doctor,No,Better opportunities in other fields
+27,Other,Undergraduate,Andhra Pradesh,No,0,Farming,Entrepreneur,Yes,
+29,Other,School,Andhra Pradesh,No,0,Business,Doctor,No,Low income in farming
+20,Other,Postgraduate,Andhra Pradesh,Yes,4.14,Business,Doctor,Yes,
+27,Female,PhD,Telangana,Yes,4.95,Private Job,Teacher,Yes,
+30,Other,Postgraduate,Andhra Pradesh,No,0,Farming,Government Job,Yes,
+21,Female,Postgraduate,Telangana,Yes,5.89,Business,Doctor,No,Unpredictable weather conditions
+22,Female,Postgraduate,Andhra Pradesh,Yes,9.77,Farming,Teacher,Yes,
+30,Other,School,Telangana,No,0,Private Job,Doctor,Yes,
+20,Other,Postgraduate,Tamil Nadu,Yes,6.52,Farming,Teacher,No,Low income in farming
+20,Male,Intermediate,Telangana,Yes,8.75,Government Job,Scientist,No,Lack of interest
+19,Male,Undergraduate,Telangana,No,0,Business,Farmer,No,High risk in agriculture
+29,Female,Intermediate,Telangana,No,0,Farming,Software Engineer,Yes,
+21,Female,PhD,Telangana,No,0,Government Job,Doctor,Yes,
+30,Female,Postgraduate,Andhra Pradesh,No,0,Government Job,Government Job,No,Low income in farming
+22,Male,Intermediate,Andhra Pradesh,Yes,9.06,Farming,Software Engineer,No,Lack of interest
+24,Female,Undergraduate,Tamil Nadu,No,0,Business,Scientist,No,Lack of interest
+18,Other,Postgraduate,Telangana,Yes,1.68,Private Job,Farmer,Yes,
+25,Female,PhD,Andhra Pradesh,No,0,Daily Wage Labour,Teacher,No,Unpredictable weather conditions
+30,Male,School,Telangana,No,0,Government Job,Teacher,Yes,
+19,Male,Postgraduate,Andhra Pradesh,No,0,Daily Wage Labour,Entrepreneur,Yes,
+18,Male,Undergraduate,Andhra Pradesh,No,0,Farming,Doctor,No,High risk in agriculture
+28,Female,Intermediate,Andhra Pradesh,No,0,Government Job,Farmer,Yes,
+29,Male,Intermediate,Tamil Nadu,No,0,Farming,Government Job,Yes,
+20,Male,School,Tamil Nadu,Yes,9.84,Daily Wage Labour,Government Job,Yes,
+26,Other,Intermediate,Telangana,No,0,Daily Wage Labour,Farmer,Yes,
+25,Female,Intermediate,Telangana,Yes,1.07,Daily Wage Labour,Teacher,Yes,
+29,Other,Postgraduate,Telangana,No,0,Government Job,Scientist,No,Better opportunities in other fields
+26,Other,Postgraduate,Tamil Nadu,No,0,Government Job,Farmer,No,Low income in farming
+28,Other,Postgraduate,Tamil Nadu,Yes,1.18,Government Job,Teacher,No,Better opportunities in other fields
+23,Male,Intermediate,Tamil Nadu,No,0,Daily Wage Labour,Farmer,No,Unpredictable weather conditions
+18,Other,Undergraduate,Andhra Pradesh,Yes,1.24,Business,Entrepreneur,Yes,
+20,Male,Undergraduate,Andhra Pradesh,No,0,Farming,Entrepreneur,Yes,
+18,Female,Postgraduate,Andhra Pradesh,No,0,Business,Software Engineer,No,High risk in agriculture
+25,Male,School,Telangana,Yes,1.55,Government Job,Scientist,No,Unpredictable weather conditions
+23,Female,PhD,Andhra Pradesh,Yes,5,Private Job,Farmer,No,Unpredictable weather conditions
+26,Male,Intermediate,Telangana,No,0,Government Job,Scientist,No,Lack of interest
+23,Female,Intermediate,Tamil Nadu,No,0,Private Job,Government Job,No,High risk in agriculture
+27,Female,Postgraduate,Andhra Pradesh,Yes,4.61,Business,Scientist,Yes,
+28,Female,Intermediate,Telangana,No,0,Daily Wage Labour,Doctor,Yes,
+28,Female,PhD,Andhra Pradesh,No,0,Private Job,Entrepreneur,No,Low income in farming
+29,Male,Postgraduate,Tamil Nadu,Yes,0.5,Daily Wage Labour,Teacher,No,High risk in agriculture
+28,Male,Postgraduate,Tamil Nadu,Yes,5.01,Government Job,Farmer,Yes,
+27,Other,Postgraduate,Tamil Nadu,No,0,Government Job,Software Engineer,No,Low income in farming
+24,Male,Undergraduate,Tamil Nadu,No,0,Business,Teacher,No,Unpredictable weather conditions
+19,Female,Intermediate,Tamil Nadu,No,0,Farming,Scientist,Yes,
+23,Male,Intermediate,Andhra Pradesh,Yes,8.63,Daily Wage Labour,Entrepreneur,No,Low income in farming
+25,Other,School,Tamil Nadu,Yes,6.81,Daily Wage Labour,Entrepreneur,No,Low income in farming
+25,Male,PhD,Andhra Pradesh,No,0,Business,Scientist,Yes,
+23,Female,Postgraduate,Andhra Pradesh,Yes,0.71,Farming,Software Engineer,Yes,
+19,Other,Undergraduate,Tamil Nadu,Yes,9.4,Farming,Government Job,No,High risk in agriculture
+23,Female,Intermediate,Andhra Pradesh,No,0,Private Job,Farmer,Yes,
+27,Other,Undergraduate,Andhra Pradesh,Yes,7.19,Private Job,Entrepreneur,Yes,
+22,Male,Undergraduate,Tamil Nadu,Yes,6.6,Daily Wage Labour,Teacher,Yes,
+29,Other,PhD,Telangana,Yes,8.07,Government Job,Government Job,No,Better opportunities in other fields
+22,Female,Postgraduate,Tamil Nadu,Yes,4.96,Business,Entrepreneur,Yes,
+22,Male,School,Telangana,No,0,Farming,Government Job,Yes,
+21,Male,Intermediate,Telangana,No,0,Private Job,Software Engineer,Yes,
+19,Male,Intermediate,Andhra Pradesh,No,0,Private Job,Teacher,Yes,
+26,Other,Undergraduate,Telangana,Yes,3.78,Private Job,Entrepreneur,Yes,
+29,Male,Undergraduate,Andhra Pradesh,No,0,Private Job,Scientist,No,High risk in agriculture
+29,Other,School,Tamil Nadu,No,0,Daily Wage Labour,Teacher,Yes,
+28,Other,PhD,Andhra Pradesh,Yes,0.74,Government Job,Doctor,Yes,
+20,Other,Undergraduate,Telangana,Yes,9.2,Business,Doctor,Yes,
+27,Male,Undergraduate,Andhra Pradesh,Yes,4.61,Business,Doctor,No,Better opportunities in other fields
+27,Male,Undergraduate,Andhra Pradesh,No,0,Private Job,Doctor,Yes,
+18,Other,Postgraduate,Telangana,No,0,Business,Software Engineer,No,High risk in agriculture
+24,Other,PhD,Tamil Nadu,Yes,6.68,Business,Teacher,No,Low income in farming
+19,Male,Undergraduate,Andhra Pradesh,No,0,Farming,Farmer,No,Low income in farming
+21,Other,PhD,Telangana,No,0,Private Job,Doctor,Yes,
+26,Other,Undergraduate,Tamil Nadu,Yes,3.4,Government Job,Doctor,Yes,
+23,Other,Intermediate,Andhra Pradesh,Yes,1.11,Private Job,Entrepreneur,No,Low income in farming
+28,Female,Undergraduate,Telangana,Yes,8.86,Private Job,Doctor,No,Unpredictable weather conditions
+29,Female,PhD,Andhra Pradesh,No,0,Government Job,Software Engineer,No,Better opportunities in other fields
+27,Female,School,Tamil Nadu,Yes,4.58,Government Job,Software Engineer,Yes,
+20,Male,Undergraduate,Andhra Pradesh,No,0,Business,Farmer,Yes,
+27,Other,Postgraduate,Telangana,No,0,Government Job,Teacher,No,Unpredictable weather conditions
+29,Other,PhD,Telangana,Yes,4.71,Daily Wage Labour,Doctor,Yes,
+30,Female,Undergraduate,Tamil Nadu,No,0,Government Job,Scientist,No,High risk in agriculture
+29,Male,Postgraduate,Tamil Nadu,No,0,Business,Teacher,No,Low income in farming
+18,Male,School,Andhra Pradesh,Yes,8.32,Daily Wage Labour,Doctor,Yes,
+27,Other,PhD,Andhra Pradesh,Yes,9.63,Private Job,Farmer,Yes,
+24,Other,Postgraduate,Tamil Nadu,Yes,8.76,Business,Government Job,No,Low income in farming
+27,Female,Undergraduate,Andhra Pradesh,Yes,7.81,Farming,Farmer,Yes,
+19,Other,Undergraduate,Tamil Nadu,Yes,5.77,Business,Farmer,Yes,
+21,Male,School,Telangana,No,0,Farming,Government Job,Yes,
+27,Female,Undergraduate,Tamil Nadu,Yes,8.92,Government Job,Scientist,Yes,
+30,Male,School,Telangana,Yes,5.07,Farming,Doctor,Yes,
+26,Male,School,Tamil Nadu,Yes,4.83,Private Job,Government Job,Yes,
+28,Male,Undergraduate,Telangana,Yes,2.8,Daily Wage Labour,Doctor,Yes,
+26,Other,Intermediate,Telangana,Yes,2.93,Government Job,Software Engineer,Yes,
+19,Other,School,Telangana,No,0,Daily Wage Labour,Entrepreneur,No,Low income in farming
+28,Female,PhD,Telangana,Yes,7.17,Farming,Farmer,Yes,
+18,Male,Postgraduate,Telangana,No,0,Government Job,Entrepreneur,Yes,
+23,Female,School,Telangana,No,0,Business,Doctor,Yes,
+18,Other,Postgraduate,Telangana,Yes,1.14,Business,Farmer,Yes,
+27,Other,School,Tamil Nadu,Yes,8.71,Government Job,Software Engineer,No,Unpredictable weather conditions
+25,Female,Undergraduate,Tamil Nadu,Yes,9.33,Farming,Scientist,Yes,
+27,Male,School,Andhra Pradesh,Yes,8.93,Private Job,Doctor,Yes,
+30,Other,Undergraduate,Telangana,No,0,Farming,Doctor,No,Unpredictable weather conditions
+30,Female,PhD,Telangana,Yes,6.05,Farming,Government Job,No,High risk in agriculture
+18,Other,Postgraduate,Andhra Pradesh,Yes,0.57,Private Job,Scientist,No,Low income in farming
+25,Other,Postgraduate,Tamil Nadu,Yes,5.16,Daily Wage Labour,Farmer,Yes,
+25,Female,Postgraduate,Andhra Pradesh,Yes,8.08,Farming,Government Job,No,High risk in agriculture
+18,Male,School,Tamil Nadu,No,0,Business,Entrepreneur,No,Low income in farming
+26,Female,Intermediate,Andhra Pradesh,Yes,7.08,Daily Wage Labour,Government Job,Yes,
+30,Male,Undergraduate,Telangana,Yes,9.02,Daily Wage Labour,Doctor,Yes,
+25,Other,PhD,Andhra Pradesh,No,0,Business,Software Engineer,Yes,
+26,Other,School,Tamil Nadu,No,0,Business,Government Job,No,Low income in farming
+23,Other,PhD,Tamil Nadu,Yes,4.24,Business,Teacher,No,Lack of interest
+21,Male,PhD,Telangana,Yes,9.35,Farming,Software Engineer,No,Low income in farming
+23,Female,Intermediate,Andhra Pradesh,Yes,7.69,Government Job,Software Engineer,No,Lack of interest
+24,Male,School,Andhra Pradesh,No,0,Private Job,Doctor,Yes,
+26,Other,Intermediate,Andhra Pradesh,Yes,4.15,Farming,Government Job,No,Lack of interest
+20,Other,School,Tamil Nadu,Yes,2.78,Daily Wage Labour,Scientist,No,High risk in agriculture
+27,Other,PhD,Tamil Nadu,No,0,Private Job,Farmer,Yes,
+30,Female,PhD,Tamil Nadu,Yes,8.07,Government Job,Farmer,Yes,
+21,Female,School,Andhra Pradesh,No,0,Daily Wage Labour,Teacher,No,High risk in agriculture
+18,Other,Undergraduate,Andhra Pradesh,No,0,Business,Software Engineer,No,Unpredictable weather conditions
+27,Other,PhD,Andhra Pradesh,Yes,9.75,Farming,Software Engineer,No,Unpredictable weather conditions
+19,Female,Intermediate,Tamil Nadu,No,0,Daily Wage Labour,Entrepreneur,No,High risk in agriculture
+18,Other,Postgraduate,Andhra Pradesh,No,0,Private Job,Teacher,No,Unpredictable weather conditions
+21,Female,Intermediate,Telangana,No,0,Government Job,Doctor,No,Lack of interest
+30,Other,Intermediate,Andhra Pradesh,No,0,Daily Wage Labour,Scientist,No,High risk in agriculture
+22,Female,Undergraduate,Telangana,Yes,7.32,Government Job,Doctor,Yes,
+21,Male,Postgraduate,Tamil Nadu,Yes,1.61,Farming,Farmer,Yes,
+22,Other,Intermediate,Andhra Pradesh,Yes,9.98,Daily Wage Labour,Entrepreneur,No,Lack of interest
+26,Other,Undergraduate,Andhra Pradesh,Yes,3.75,Business,Scientist,No,Unpredictable weather conditions
+23,Male,School,Telangana,No,0,Farming,Government Job,Yes,
+24,Male,Postgraduate,Telangana,No,0,Farming,Farmer,No,Low income in farming
+25,Male,PhD,Andhra Pradesh,No,0,Farming,Scientist,Yes,
+30,Female,Postgraduate,Tamil Nadu,No,0,Farming,Software Engineer,Yes,
+24,Male,Undergraduate,Tamil Nadu,Yes,2.19,Farming,Doctor,Yes,
+20,Female,PhD,Andhra Pradesh,Yes,7.54,Business,Doctor,No,Better opportunities in other fields
+24,Male,School,Tamil Nadu,Yes,0.52,Business,Doctor,No,Unpredictable weather conditions
+28,Male,PhD,Andhra Pradesh,Yes,7.03,Private Job,Doctor,No,High risk in agriculture
+18,Male,Intermediate,Andhra Pradesh,No,0,Daily Wage Labour,Scientist,No,Low income in farming
+21,Other,PhD,Andhra Pradesh,Yes,9.03,Government Job,Entrepreneur,Yes,
+29,Female,Undergraduate,Telangana,Yes,7.32,Farming,Teacher,Yes,
+22,Female,Undergraduate,Telangana,No,0,Daily Wage Labour,Scientist,Yes,
+20,Other,School,Tamil Nadu,No,0,Government Job,Teacher,Yes,
+21,Female,Undergraduate,Telangana,Yes,9.57,Daily Wage Labour,Scientist,Yes,
+25,Male,Undergraduate,Andhra Pradesh,No,0,Daily Wage Labour,Scientist,Yes,
+26,Female,Intermediate,Andhra Pradesh,No,0,Daily Wage Labour,Teacher,No,Lack of interest
+27,Male,PhD,Tamil Nadu,No,0,Farming,Teacher,Yes,
+30,Male,Undergraduate,Tamil Nadu,Yes,1.3,Farming,Doctor,No,Better opportunities in other fields
+18,Female,Intermediate,Tamil Nadu,Yes,6.31,Private Job,Software Engineer,No,Lack of interest
+18,Other,Postgraduate,Tamil Nadu,No,0,Private Job,Entrepreneur,Yes,
+29,Male,Intermediate,Tamil Nadu,No,0,Farming,Scientist,Yes,
+20,Male,PhD,Telangana,Yes,4.37,Government Job,Teacher,Yes,
+29,Other,Postgraduate,Tamil Nadu,No,0,Private Job,Entrepreneur,No,Better opportunities in other fields
+24,Male,Intermediate,Andhra Pradesh,Yes,0.76,Daily Wage Labour,Scientist,Yes,
+25,Female,School,Andhra Pradesh,No,0,Business,Teacher,No,Low income in farming
+22,Other,PhD,Tamil Nadu,No,0,Daily Wage Labour,Teacher,Yes,
+26,Other,Postgraduate,Tamil Nadu,No,0,Farming,Teacher,Yes,
+20,Female,PhD,Andhra Pradesh,No,0,Farming,Teacher,Yes,
+22,Other,Intermediate,Andhra Pradesh,No,0,Government Job,Teacher,No,Low income in farming
+18,Female,School,Telangana,Yes,8,Government Job,Software Engineer,No,Unpredictable weather conditions
+19,Female,PhD,Andhra Pradesh,Yes,8.26,Business,Teacher,Yes,
+29,Other,PhD,Tamil Nadu,Yes,1.21,Government Job,Software Engineer,Yes,
+29,Female,Undergraduate,Andhra Pradesh,Yes,2.69,Business,Scientist,Yes,
+28,Female,PhD,Tamil Nadu,No,0,Government Job,Entrepreneur,No,High risk in agriculture
+19,Female,School,Telangana,Yes,8.87,Daily Wage Labour,Teacher,Yes,
+21,Other,School,Telangana,No,0,Daily Wage Labour,Farmer,No,Better opportunities in other fields
+29,Other,Intermediate,Tamil Nadu,Yes,9.33,Farming,Software Engineer,Yes,
+28,Female,Undergraduate,Tamil Nadu,Yes,5.49,Business,Doctor,No,Lack of interest
+25,Male,PhD,Andhra Pradesh,Yes,1.18,Private Job,Scientist,Yes,
+25,Other,PhD,Telangana,No,0,Private Job,Entrepreneur,No,Low income in farming
+18,Male,Undergraduate,Tamil Nadu,Yes,1.55,Private Job,Teacher,No,Unpredictable weather conditions
+27,Female,PhD,Tamil Nadu,Yes,6.95,Business,Software Engineer,No,High risk in agriculture
+24,Female,PhD,Telangana,Yes,2.76,Farming,Doctor,Yes,
+27,Other,Undergraduate,Andhra Pradesh,Yes,8.91,Daily Wage Labour,Software Engineer,Yes,
+27,Male,Postgraduate,Andhra Pradesh,No,0,Farming,Teacher,No,Low income in farming
+19,Male,Intermediate,Andhra Pradesh,No,0,Daily Wage Labour,Doctor,No,High risk in agriculture
+28,Female,PhD,Andhra Pradesh,No,0,Private Job,Scientist,No,Better opportunities in other fields
+19,Male,School,Telangana,No,0,Government Job,Government Job,Yes,
+29,Male,Postgraduate,Andhra Pradesh,No,0,Government Job,Farmer,Yes,
+30,Male,School,Andhra Pradesh,Yes,5,Private Job,Government Job,Yes,
+25,Female,Postgraduate,Tamil Nadu,Yes,8.68,Government Job,Government Job,No,Better opportunities in other fields
+26,Other,School,Tamil Nadu,Yes,5.31,Daily Wage Labour,Doctor,Yes,
+21,Female,School,Telangana,No,0,Government Job,Entrepreneur,Yes,
+23,Male,Intermediate,Telangana,No,0,Daily Wage Labour,Doctor,Yes,
+25,Other,PhD,Andhra Pradesh,Yes,5.72,Business,Farmer,No,Lack of interest
+18,Male,School,Andhra Pradesh,No,0,Government Job,Software Engineer,Yes,
+21,Other,Undergraduate,Tamil Nadu,No,0,Private Job,Teacher,Yes,
+29,Male,School,Telangana,Yes,8.23,Daily Wage Labour,Farmer,No,Lack of interest
+23,Other,School,Telangana,Yes,9.12,Farming,Scientist,Yes,
+29,Male,PhD,Telangana,No,0,Farming,Doctor,Yes,
+26,Other,Undergraduate,Telangana,Yes,9.02,Business,Scientist,No,High risk in agriculture
+27,Female,Intermediate,Tamil Nadu,No,0,Government Job,Entrepreneur,Yes,
+22,Male,Intermediate,Tamil Nadu,No,0,Daily Wage Labour,Scientist,No,High risk in agriculture
+30,Female,Intermediate,Andhra Pradesh,No,0,Business,Government Job,No,High risk in agriculture
+25,Other,Postgraduate,Tamil Nadu,Yes,6.66,Business,Scientist,Yes,
+26,Male,Intermediate,Telangana,No,0,Daily Wage Labour,Doctor,No,Unpredictable weather conditions
+18,Male,Undergraduate,Andhra Pradesh,No,0,Private Job,Teacher,No,Low income in farming
+21,Female,Postgraduate,Telangana,No,0,Daily Wage Labour,Government Job,Yes,
+22,Female,Intermediate,Telangana,No,0,Farming,Entrepreneur,Yes,
+28,Male,Intermediate,Tamil Nadu,Yes,9.23,Daily Wage Labour,Government Job,No,High risk in agriculture
+21,Other,PhD,Telangana,Yes,4.49,Farming,Software Engineer,Yes,
+18,Male,School,Telangana,No,0,Private Job,Entrepreneur,Yes,
+24,Female,School,Telangana,Yes,7.14,Daily Wage Labour,Software Engineer,No,Better opportunities in other fields
+26,Other,Intermediate,Telangana,No,0,Business,Entrepreneur,Yes,
+30,Female,PhD,Telangana,Yes,4.13,Private Job,Doctor,Yes,
+29,Other,Intermediate,Tamil Nadu,Yes,1.4,Government Job,Entrepreneur,Yes,
+28,Female,Intermediate,Telangana,No,0,Private Job,Scientist,Yes,
+28,Female,Undergraduate,Telangana,Yes,8.28,Government Job,Entrepreneur,No,Unpredictable weather conditions
+22,Male,PhD,Andhra Pradesh,Yes,7.21,Business,Scientist,Yes,
+27,Female,Postgraduate,Tamil Nadu,Yes,4.15,Private Job,Software Engineer,No,Better opportunities in other fields
+21,Female,Intermediate,Telangana,No,0,Private Job,Scientist,No,High risk in agriculture
+24,Male,Postgraduate,Tamil Nadu,Yes,3.85,Business,Software Engineer,No,Unpredictable weather conditions
+24,Other,School,Tamil Nadu,Yes,6.4,Daily Wage Labour,Software Engineer,No,Better opportunities in other fields
+21,Other,School,Tamil Nadu,Yes,1.13,Business,Entrepreneur,Yes,
+20,Male,Postgraduate,Telangana,No,0,Business,Teacher,Yes,
+25,Female,PhD,Andhra Pradesh,Yes,1.42,Farming,Software Engineer,Yes,
+21,Female,PhD,Tamil Nadu,Yes,1.17,Daily Wage Labour,Software Engineer,Yes,
+19,Male,Intermediate,Tamil Nadu,Yes,6.67,Business,Scientist,No,Unpredictable weather conditions
+27,Other,School,Telangana,No,0,Government Job,Farmer,No,Lack of interest
+20,Male,Intermediate,Tamil Nadu,No,0,Business,Entrepreneur,No,Lack of interest
+23,Other,Undergraduate,Tamil Nadu,No,0,Farming,Farmer,No,Lack of interest
+23,Male,Postgraduate,Andhra Pradesh,Yes,0.73,Government Job,Government Job,Yes,
+27,Female,Postgraduate,Telangana,Yes,5.23,Business,Entrepreneur,No,High risk in agriculture
+23,Male,Postgraduate,Tamil Nadu,No,0,Private Job,Entrepreneur,No,Unpredictable weather conditions
+30,Male,PhD,Andhra Pradesh,Yes,5.74,Private Job,Scientist,No,High risk in agriculture
+30,Other,Postgraduate,Tamil Nadu,No,0,Business,Software Engineer,No,Low income in farming
+22,Other,PhD,Andhra Pradesh,No,0,Private Job,Entrepreneur,No,Better opportunities in other fields
+26,Male,Undergraduate,Tamil Nadu,Yes,3.33,Business,Teacher,Yes,
+30,Male,Undergraduate,Tamil Nadu,Yes,5.73,Private Job,Teacher,No,Lack of interest
+22,Female,School,Andhra Pradesh,Yes,3.02,Government Job,Doctor,Yes,
+24,Female,School,Tamil Nadu,No,0,Daily Wage Labour,Entrepreneur,No,Low income in farming
+19,Female,Postgraduate,Telangana,No,0,Private Job,Doctor,No,Better opportunities in other fields
+29,Female,Postgraduate,Tamil Nadu,Yes,7.87,Government Job,Software Engineer,Yes,
+23,Male,School,Tamil Nadu,Yes,3.73,Farming,Government Job,No,Better opportunities in other fields
+19,Male,Postgraduate,Andhra Pradesh,Yes,5.21,Business,Software Engineer,Yes,
+21,Other,Undergraduate,Telangana,No,0,Farming,Government Job,Yes,
+20,Female,PhD,Telangana,No,0,Government Job,Farmer,Yes,
+23,Female,Postgraduate,Tamil Nadu,Yes,9.43,Daily Wage Labour,Software Engineer,No,High risk in agriculture
+24,Female,School,Telangana,Yes,6.91,Government Job,Government Job,Yes,
+18,Female,Postgraduate,Tamil Nadu,No,0,Farming,Teacher,No,Lack of interest
+28,Male,PhD,Telangana,Yes,5.26,Private Job,Farmer,No,High risk in agriculture
+29,Female,Undergraduate,Andhra Pradesh,No,0,Private Job,Doctor,Yes,
+30,Female,School,Telangana,No,0,Farming,Government Job,No,Unpredictable weather conditions
+28,Other,PhD,Telangana,No,0,Business,Government Job,Yes,
+23,Male,Postgraduate,Tamil Nadu,Yes,1.02,Private Job,Government Job,Yes,
+28,Other,Intermediate,Andhra Pradesh,No,0,Farming,Teacher,No,Lack of interest
+22,Male,PhD,Telangana,Yes,1.63,Private Job,Scientist,No,High risk in agriculture
+28,Female,Postgraduate,Telangana,No,0,Daily Wage Labour,Teacher,Yes,
+28,Male,Intermediate,Telangana,Yes,2.71,Business,Software Engineer,Yes,
+30,Male,School,Andhra Pradesh,No,0,Farming,Teacher,Yes,
+21,Other,Intermediate,Tamil Nadu,No,0,Private Job,Farmer,No,Better opportunities in other fields
+28,Female,Undergraduate,Andhra Pradesh,Yes,8.27,Daily Wage Labour,Government Job,Yes,
+21,Female,School,Tamil Nadu,Yes,5.79,Government Job,Teacher,No,Better opportunities in other fields
+25,Female,School,Telangana,No,0,Daily Wage Labour,Scientist,Yes,
+23,Male,School,Tamil Nadu,No,0,Private Job,Farmer,No,Lack of interest
+24,Male,Undergraduate,Telangana,No,0,Business,Teacher,Yes,
+26,Male,Postgraduate,Andhra Pradesh,Yes,3.56,Farming,Government Job,No,High risk in agriculture
+27,Other,Undergraduate,Tamil Nadu,Yes,3.93,Private Job,Farmer,No,Unpredictable weather conditions
+21,Male,School,Tamil Nadu,Yes,4.94,Farming,Scientist,No,High risk in agriculture
+22,Female,School,Tamil Nadu,Yes,1.43,Daily Wage Labour,Scientist,No,Low income in farming
+28,Female,Intermediate,Tamil Nadu,Yes,9.31,Business,Teacher,Yes,
+18,Male,School,Tamil Nadu,Yes,4.71,Farming,Teacher,No,Better opportunities in other fields
+23,Other,Undergraduate,Telangana,Yes,1.9,Daily Wage Labour,Teacher,Yes,
+29,Female,PhD,Telangana,Yes,3.51,Government Job,Farmer,Yes,
+24,Other,Postgraduate,Andhra Pradesh,No,0,Government Job,Government Job,No,Better opportunities in other fields
+27,Other,Intermediate,Tamil Nadu,Yes,8.41,Farming,Doctor,Yes,
+25,Male,PhD,Andhra Pradesh,No,0,Daily Wage Labour,Software Engineer,No,Low income in farming
+20,Female,Intermediate,Andhra Pradesh,No,0,Daily Wage Labour,Farmer,No,High risk in agriculture
+25,Male,School,Andhra Pradesh,Yes,1.4,Government Job,Doctor,No,Unpredictable weather conditions
+30,Other,Undergraduate,Telangana,Yes,6.9,Government Job,Teacher,No,High risk in agriculture
+30,Other,PhD,Telangana,Yes,7.37,Daily Wage Labour,Software Engineer,No,Low income in farming
+30,Female,School,Telangana,Yes,7.8,Daily Wage Labour,Software Engineer,No,Unpredictable weather conditions
+29,Female,Intermediate,Andhra Pradesh,No,0,Daily Wage Labour,Teacher,No,Better opportunities in other fields
+22,Female,Undergraduate,Tamil Nadu,No,0,Government Job,Government Job,No,Unpredictable weather conditions
+22,Other,Intermediate,Telangana,No,0,Daily Wage Labour,Farmer,Yes,
+18,Male,School,Telangana,No,0,Government Job,Farmer,Yes,
+26,Other,PhD,Telangana,No,0,Business,Software Engineer,Yes,
+22,Male,School,Andhra Pradesh,Yes,2.75,Government Job,Software Engineer,No,Lack of interest
+28,Male,PhD,Tamil Nadu,Yes,1.43,Private Job,Teacher,Yes,
+18,Female,School,Telangana,Yes,3.83,Private Job,Doctor,No,Unpredictable weather conditions
+28,Male,Undergraduate,Tamil Nadu,No,0,Business,Government Job,Yes,
+28,Other,School,Telangana,No,0,Daily Wage Labour,Farmer,No,Unpredictable weather conditions
+19,Female,PhD,Andhra Pradesh,Yes,1.68,Private Job,Teacher,No,Lack of interest
+23,Male,Intermediate,Telangana,Yes,6.64,Daily Wage Labour,Software Engineer,No,Better opportunities in other fields
+19,Other,Undergraduate,Tamil Nadu,No,0,Daily Wage Labour,Software Engineer,No,Lack of interest
+21,Female,Intermediate,Telangana,Yes,5.97,Daily Wage Labour,Teacher,No,Unpredictable weather conditions
+22,Male,School,Telangana,No,0,Private Job,Entrepreneur,No,Better opportunities in other fields
+29,Female,PhD,Telangana,No,0,Private Job,Teacher,No,Lack of interest
+30,Female,PhD,Tamil Nadu,No,0,Daily Wage Labour,Scientist,Yes,
+24,Male,Undergraduate,Telangana,Yes,4.27,Private Job,Software Engineer,Yes,
+22,Male,Undergraduate,Telangana,No,0,Daily Wage Labour,Entrepreneur,No,Better opportunities in other fields
+29,Female,Postgraduate,Telangana,No,0,Private Job,Government Job,No,Low income in farming
+28,Male,Postgraduate,Andhra Pradesh,No,0,Farming,Government Job,No,Better opportunities in other fields
+28,Male,Postgraduate,Telangana,No,0,Daily Wage Labour,Entrepreneur,Yes,
+27,Other,PhD,Tamil Nadu,No,0,Farming,Teacher,Yes,
+29,Male,Postgraduate,Andhra Pradesh,Yes,9.78,Business,Entrepreneur,Yes,
+30,Female,Undergraduate,Tamil Nadu,No,0,Private Job,Entrepreneur,Yes,
+30,Female,Postgraduate,Andhra Pradesh,No,0,Private Job,Software Engineer,No,Unpredictable weather conditions
+30,Male,PhD,Telangana,Yes,7.87,Government Job,Entrepreneur,No,Unpredictable weather conditions
+20,Male,Postgraduate,Telangana,No,0,Daily Wage Labour,Scientist,Yes,
+20,Male,PhD,Tamil Nadu,Yes,7,Daily Wage Labour,Entrepreneur,Yes,
+18,Male,PhD,Telangana,Yes,5.87,Business,Farmer,Yes,
+27,Male,School,Andhra Pradesh,Yes,6.61,Government Job,Software Engineer,No,Low income in farming
+28,Male,PhD,Andhra Pradesh,Yes,3.56,Farming,Software Engineer,No,Low income in farming
+19,Other,Postgraduate,Andhra Pradesh,Yes,9.78,Farming,Teacher,No,Lack of interest
+30,Male,PhD,Telangana,Yes,6.81,Business,Farmer,Yes,
+29,Male,Intermediate,Tamil Nadu,Yes,1.27,Private Job,Doctor,Yes,
+27,Male,School,Andhra Pradesh,No,0,Business,Teacher,Yes,
+30,Other,Undergraduate,Andhra Pradesh,No,0,Farming,Government Job,No,Low income in farming
+29,Female,Postgraduate,Telangana,No,0,Government Job,Doctor,Yes,
+22,Male,Undergraduate,Telangana,Yes,4.59,Private Job,Entrepreneur,No,Better opportunities in other fields
+26,Male,Undergraduate,Tamil Nadu,Yes,8.9,Daily Wage Labour,Scientist,Yes,
+26,Other,School,Telangana,No,0,Farming,Software Engineer,No,Better opportunities in other fields
+30,Other,PhD,Tamil Nadu,No,0,Government Job,Doctor,No,High risk in agriculture
+18,Other,PhD,Andhra Pradesh,No,0,Farming,Farmer,Yes,
+21,Other,School,Tamil Nadu,Yes,4.82,Farming,Scientist,Yes,
+29,Female,Postgraduate,Tamil Nadu,Yes,5.34,Government Job,Doctor,Yes,
+21,Other,Intermediate,Telangana,No,0,Government Job,Doctor,Yes,
+23,Other,PhD,Tamil Nadu,No,0,Business,Scientist,Yes,
+23,Female,PhD,Telangana,Yes,1.05,Business,Teacher,No,Low income in farming
+18,Female,Postgraduate,Telangana,No,0,Government Job,Doctor,Yes,
+18,Other,School,Tamil Nadu,Yes,9.31,Business,Doctor,No,Lack of interest
+23,Male,PhD,Andhra Pradesh,Yes,1.09,Farming,Scientist,No,Lack of interest
+24,Female,Undergraduate,Telangana,Yes,5.39,Daily Wage Labour,Doctor,No,Lack of interest
+30,Male,Postgraduate,Andhra Pradesh,Yes,7.41,Business,Government Job,Yes,
+28,Other,PhD,Andhra Pradesh,No,0,Daily Wage Labour,Doctor,No,High risk in agriculture
+25,Female,Postgraduate,Telangana,Yes,9.86,Government Job,Government Job,No,Low income in farming
+23,Male,School,Telangana,No,0,Private Job,Government Job,No,High risk in agriculture
+25,Other,Postgraduate,Andhra Pradesh,No,0,Private Job,Entrepreneur,Yes,
+21,Female,School,Tamil Nadu,Yes,3.14,Daily Wage Labour,Entrepreneur,No,Lack of interest
+18,Female,Postgraduate,Andhra Pradesh,No,0,Farming,Teacher,No,Low income in farming
+28,Female,PhD,Andhra Pradesh,No,0,Farming,Doctor,No,Lack of interest
+28,Other,PhD,Tamil Nadu,No,0,Daily Wage Labour,Entrepreneur,No,High risk in agriculture
+22,Other,Intermediate,Tamil Nadu,No,0,Daily Wage Labour,Software Engineer,No,High risk in agriculture
+27,Other,Intermediate,Andhra Pradesh,Yes,1.78,Business,Software Engineer,No,Better opportunities in other fields
+21,Male,Intermediate,Tamil Nadu,No,0,Private Job,Farmer,No,Lack of interest
+27,Male,Intermediate,Andhra Pradesh,No,0,Government Job,Farmer,No,Low income in farming
+25,Other,Undergraduate,Telangana,No,0,Business,Teacher,No,Low income in farming
+26,Other,Intermediate,Telangana,No,0,Business,Farmer,Yes,
+19,Female,School,Telangana,Yes,5.28,Farming,Software Engineer,No,Low income in farming
+18,Female,Postgraduate,Tamil Nadu,Yes,3.67,Private Job,Scientist,No,High risk in agriculture
+26,Female,Postgraduate,Tamil Nadu,Yes,1.29,Business,Entrepreneur,Yes,
+28,Female,School,Tamil Nadu,No,0,Private Job,Teacher,Yes,
+30,Other,Postgraduate,Andhra Pradesh,No,0,Private Job,Teacher,No,Unpredictable weather conditions
+19,Other,PhD,Tamil Nadu,Yes,4,Farming,Entrepreneur,Yes,
+24,Male,Undergraduate,Tamil Nadu,No,0,Business,Software Engineer,No,Unpredictable weather conditions
+30,Male,PhD,Tamil Nadu,Yes,1.88,Government Job,Government Job,No,Better opportunities in other fields
+27,Male,Postgraduate,Tamil Nadu,No,0,Private Job,Scientist,Yes,
+19,Male,Intermediate,Telangana,Yes,3.29,Farming,Entrepreneur,No,High risk in agriculture
+29,Male,Postgraduate,Tamil Nadu,Yes,8.24,Government Job,Government Job,No,Unpredictable weather conditions
+28,Female,Postgraduate,Telangana,Yes,2.8,Farming,Farmer,No,Low income in farming
+25,Female,School,Tamil Nadu,No,0,Government Job,Doctor,No,Lack of interest
+23,Female,PhD,Tamil Nadu,No,0,Private Job,Scientist,Yes,
+27,Female,PhD,Telangana,Yes,9.65,Business,Doctor,Yes,
+27,Female,School,Telangana,No,0,Business,Entrepreneur,Yes,
+27,Other,School,Telangana,Yes,9.16,Daily Wage Labour,Farmer,No,Unpredictable weather conditions
+28,Female,Postgraduate,Andhra Pradesh,No,0,Private Job,Doctor,Yes,
+26,Female,Intermediate,Andhra Pradesh,No,0,Government Job,Software Engineer,No,Unpredictable weather conditions
+26,Female,Postgraduate,Andhra Pradesh,Yes,5.31,Farming,Software Engineer,Yes,
+21,Other,Intermediate,Tamil Nadu,No,0,Farming,Software Engineer,Yes,
+25,Male,PhD,Telangana,Yes,6.75,Farming,Farmer,No,Unpredictable weather conditions
+28,Female,School,Telangana,Yes,6.67,Business,Government Job,Yes,
+25,Other,PhD,Telangana,Yes,8.75,Private Job,Teacher,Yes,
+28,Other,Undergraduate,Andhra Pradesh,No,0,Private Job,Government Job,Yes,
+21,Male,School,Andhra Pradesh,No,0,Daily Wage Labour,Scientist,No,High risk in agriculture
+25,Female,Undergraduate,Andhra Pradesh,Yes,3.39,Private Job,Farmer,Yes,
+18,Female,Intermediate,Tamil Nadu,Yes,3.58,Daily Wage Labour,Farmer,Yes,
+28,Other,Intermediate,Andhra Pradesh,Yes,9.6,Farming,Doctor,Yes,
+22,Female,PhD,Tamil Nadu,Yes,3.42,Government Job,Scientist,Yes,
+22,Female,Intermediate,Telangana,No,0,Private Job,Scientist,No,High risk in agriculture
+23,Male,PhD,Andhra Pradesh,Yes,6.6,Business,Doctor,Yes,
+25,Other,PhD,Tamil Nadu,Yes,2.33,Daily Wage Labour,Scientist,Yes,
+23,Other,Postgraduate,Andhra Pradesh,No,0,Private Job,Government Job,Yes,
+20,Female,School,Tamil Nadu,Yes,4.19,Business,Entrepreneur,Yes,
